@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="open_maps">Open Google Maps</string>
+    <string name="send">Send Message</string>
+    <string name="location_information">Location Information</string>
+    <string name="location_not_available">Location is Not Available</string>
+    <string name="_880">+880</string>
+    <string name="send_google_map_location">Send Map Location</string>
+    <string name="or_you_can_use_volume_up_key_to_send_sms_to_default_number">Or you can use Volume UP key to send sms to default number.</string>
+</resources>
